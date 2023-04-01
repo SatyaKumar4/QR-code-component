@@ -34,10 +34,8 @@ body {
 }
 
 .improve{
-    font-size: 1.1rem;
+    font-size: 0.9375rem;
     font-weight: 700;
-    margin: auto;
-    width: 60%;
 }
 
 .scan{
@@ -45,8 +43,6 @@ body {
     font-size: 0.9375rem;
     color: gray;
     font-weight: normal;
-    margin: auto;
-    width: 60%;
 
 }
 
